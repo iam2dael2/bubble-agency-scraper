@@ -7,13 +7,17 @@ By the end, I had built a robust solution that could handle future page expansio
 <img width="956" alt="Screenshot 2024-09-26 204614" src="https://github.com/user-attachments/assets/fe63ed6e-38e0-4100-a27c-a008e366d44d">
 
 ## 🏃 Usage
-1. Make sure your python is installed.
+1. Clone the repository
+```bash
+git clone https://github.com/iam2dael2/bubble-agency-scraper.git
+```
+2. Make sure your python is installed.
 ```bash
 python --version
 
 # Python 3.x.x
 ```
-2. Build your python environment.
+3. Build your python environment.
 ```bash
 # Replace 'project_env' by your environment name specified
 python -m venv project_env
@@ -28,7 +32,7 @@ source project_env/Scripts/activate
 # (Linux)
 source project_env/bin/activate
 ```  
-3. Start scraping 🎉
+4. Start scraping 🎉
 ```bash
 scrapy crawl bubble
 ```
