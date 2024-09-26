@@ -2,7 +2,7 @@
 Welcome to Bubble.io Agency Scraper—a flexible and customizable tool that extracts detailed information about agencies listed on Bubble.io. This script empowers you to effortlessly scrape data from multiple linked pages and save it to a Google Sheet. 🎉<br><br>
 This project was inspired by Upwork posting, where I successfully scraped over **27 pages** of agency data from Bubble.io. Through this process, I gathered all the key information—starting from **Agency Name**, **Country**, and **Featured Works** to **External Profile Links**. This experience allowed me to refine the scraping process, ensuring the script is flexible and adaptable to future changes in the website structure.
 
-By the end, I had built a robust solution that could handle future page expansions while maintaining data accuracy and organization.
+By the end, I had built a robust solution that could handle future page expansions while maintaining data accuracy and organization. Here is the [link of Google Sheet containing agency data](https://docs.google.com/spreadsheets/d/1lpcsyRrer_Its6NDlmUHsR2_5u39wJZ4iSjvCHdUT2o/edit?usp=sharing).
 <br><br>
 <img width="956" alt="Screenshot 2024-09-26 204614" src="https://github.com/user-attachments/assets/fe63ed6e-38e0-4100-a27c-a008e366d44d">
 
